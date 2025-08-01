@@ -1,1 +1,1 @@
-Este repositório é dedicado a reunir todos os trabalhos da nossa startup, solicitados em sala de aula.
+Esse repositório foi feito pra juntar tudo relacionado à nossa startup, Mundo Singular. Aqui tem o PDF de apresentação com as principais informações do projeto, o caderno de campo com anotações, descobertas e aprendizados ao longo do processo, o escopo com o planejamento e os objetivos, e também o banner usado nas apresentações e eventos.
